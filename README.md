@@ -18,13 +18,13 @@ Using LLaMA (via Ollama), FastAPI &amp; Streamlit
 
 
 
-🧠 Text Summarizer AI
+## 🧠 Text Summarizer AI
 
 Local LLaMA Inference with FastAPI & Streamlit
 
 A full-stack AI application that performs text summarization using a locally hosted LLaMA model via Ollama, featuring a FastAPI backend and a Streamlit frontend. This project runs entirely offline, ensuring data privacy, low latency, and zero API costs.
 
-📌 Project Overview
+## 📌 Project Overview
 🎯 Goal
 
 Build a modern, modular AI application that:
@@ -37,7 +37,7 @@ Offers a simple, interactive web UI for users
 
 Follows real-world engineering best practices
 
-🚀 Features
+## 🚀 Features
 
 ⚡ FastAPI backend for high-performance API handling
 
@@ -51,14 +51,15 @@ Follows real-world engineering best practices
 
 🧩 Modular architecture (easy to extend)
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 Component	Technology
 LLM Runtime	Ollama (LLaMA)
 Backend API	FastAPI
 Frontend UI	Streamlit
 Language	Python
 Version Control	Git & GitHub
-📂 Project Structure
+
+## 📂 Project Structure
 text-summarizer-ai/
 │
 ├── backend/
@@ -73,7 +74,7 @@ text-summarizer-ai/
 ├── README.md            # Project documentation
 └── .gitignore
 
-⚙️ Prerequisites
+## ⚙️ Prerequisites
 
 Before running the project, ensure you have:
 
@@ -85,7 +86,7 @@ LLaMA model pulled locally
 
 Git
 
-Install Ollama
+## Install Ollama
 
 👉 https://ollama.com
 
@@ -98,7 +99,7 @@ Verify Ollama is running:
 
 ollama list
 
-🧪 Setup Instructions
+## 🧪 Setup Instructions
 1️⃣ Clone the repository
 git clone <your-repo-url>
 cd text-summarizer-ai
@@ -152,7 +153,7 @@ Model generates summary
 
 Summary is returned to UI in real time
 
-📈 Example Use Cases
+## 📈 Example Use Cases
 
 Summarizing long articles or documents
 
@@ -162,7 +163,7 @@ Offline AI demos
 
 LLM experimentation and prototyping
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Docker containerization
 
@@ -176,7 +177,7 @@ Logging & monitoring
 
 CI/CD pipeline
 
-🧠 Key Takeaways
+## 🧠 Key Takeaways
 
 Demonstrates LLM integration without cloud APIs
 
@@ -186,11 +187,11 @@ Highlights privacy-focused AI architecture
 
 Easily extendable to chatbots, Q&A systems, or agents
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Khaleef Haughton
 Built for learning, showcasing AI + backend engineering, and real-world system design.
 
-📜 License
+## 📜 License
 
 This project is open-source and available for educational and personal use.
